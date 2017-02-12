@@ -1,0 +1,19 @@
+  #progress {
+          width: 200px;
+          height: 20px;
+          background-color: #eee;
+        }
+        #progressbar {
+          height: 20px;
+          background-color: #00f;
+        }
+        
+ 
+.edit-videolab {
+	size:10pt;
+	padding:0;
+}
+
+.ui-button{
+padding:0;
+}

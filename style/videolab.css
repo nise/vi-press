@@ -1,0 +1,91 @@
+html {
+margin-top:0;
+}
+
+
+  #progress {
+          width: 200px;
+          height: 20px;
+          background-color: #eee;
+        }
+        #progressbar {
+          height: 20px;
+          background-color: #00f;
+        }
+        
+ 
+.edit-videolab {
+	size:10pt;
+	padding:0;
+	margin-left:10px;
+	display:inline;
+	position:relative;
+	cursor: pointer;
+	text-decoration:none;
+}
+
+
+#tabs{
+margin: 0 15px 0 315px;
+}
+
+
+.ui-button{
+padding:1px 4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+}
+
+.ui-dialog {
+background-color:#fff;
+}
+
+.ui-widget .ui-widget {
+	font-size:0.9em;
+}
+
+div.annotation-add { display:inline; }
+
+.icon-add-comment{ background-color:green; }
+.icon-add-toc:hover{ background-color:red; }
+.icon-add-tag{ background-color:yellow; }
+.icon-add-question{ background-color:purple; }
+
+textarea.script{
+	width:400px;
+	height:100px;
+}
+
+
+#accordion h3 a{
+	width:180px;
+	display:inline;
+}
+
+#accordion h3 span.add{
+ display:inline;
+ position:absolute;
+ right:-18px;
+ top:-2px;
+ height:14px;
+  background-color: #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    border-radius: 0 3px 3px 0;
+    border-right: 1px solid #FFFFFF;
+    border-top: 1px solid #FFFFFF;
+    font-weight: bold;
+    padding: 1px 4px 3px;
+}
+
+#accordion h3:hover span.add{ 
+	background-color:blue;
+}
+
+.ui-button { cursor:pointer;}
+#access .blog-list { padding:4px; display:inline; margin:0px 4px; border:2px solid #444; 
+  white-space: nowrap; font-size:10px;}
+#access .blog-list:hover { border:2px solid #fff; }
+#access .ui-menu { margin:0 2px; display:inline; }
+#access{ overflow-x:scroll;}
+
